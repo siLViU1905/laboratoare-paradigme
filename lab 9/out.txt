@@ -1,0 +1,2 @@
+Persoana{nume='Efg', prenume='Abc', varsta=18}
+Persoana{nume='Wvx', prenume='Xyz', varsta=25}
