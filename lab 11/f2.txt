@@ -1,0 +1,3 @@
+Persoana{nume='Alex', prenume='Pop'}
+Persoana{nume='Vasile', prenume='Ion'}
+Persoana{nume='Ion', prenume='Abc'}
